@@ -195,3 +195,4 @@ whisperx==3.1.2
 wrapt==1.17.3
 xxhash==3.6.0
 yarl==1.22.0
+optuna
