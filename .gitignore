@@ -3,3 +3,11 @@ __pycache__/
 *.db
 *.pkl
 .DS_Store
+# --- Generated Artifacts 
+data/*.csv
+data/*.db
+*.cbm
+*.tsv
+catboost_info/
+lightning_logs/
+__pycache__/
